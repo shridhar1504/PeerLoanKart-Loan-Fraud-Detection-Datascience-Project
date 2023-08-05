@@ -7,4 +7,10 @@ It connects people who need money (borrowers) with people who have money (invest
 
 `Key issues` - Ensure NPAs are lower – meaning PeerLoanKart wants to be very diligent in giving loans to borrower
 ## Solution Approach :
-
+The aim is to create a model that will help predict whether a borrower will pay the loan or not. The main focus is on Lower NPA (Non Performing Asset) to creating the model. 
+## Observation : 
+The following observations were made during the project period. 
+* The dataset of historical loan data from PeerLoanKart is a valuable resource for loan repayment prediction.
+* A variety of classification algorithms can be used to predict loan repayment status.
+* The model performance can be improved by using Feature Engineering and Hyperparameter tuning.
+#### Fields in dataset
