@@ -13,7 +13,7 @@ The following observations were made during the project period.
 1. The dataset of historical loan data from PeerLoanKart is a valuable resource for loan repayment prediction.
 2. A variety of classification algorithms can be used to predict loan repayment status.
 3. The model performance can be improved by using Feature Engineering and Hyperparameter tuning.
-###Dataset Decription : 
+### Dataset Decription : 
   * credit.policy: 1 if the customer meets the credit underwriting criteria of PeerLoanKart, and 0 otherwise
   *	purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other")
   *	int.rate: The interest rate of the loan, as a proportion (a rate of 11% would be stored as 0.11). Borrowers judged by PeerLoanKart to be more risky are assigned higher interest rates
