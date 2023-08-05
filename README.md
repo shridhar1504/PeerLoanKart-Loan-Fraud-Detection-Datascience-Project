@@ -37,3 +37,6 @@ The following findings were made during the project period.
 The developed model can be used to improve the efficiency of loan lending by helping PeerLoanKart to make more informed decisions about whether to approve or deny loan applications. Here the model used is Extreme Gradient Boosting(XG Boost) model with the 94% degree of accuracy.
 
 `Business Benefits` - Increase in profits up to 20% as NPA will be reduced due to loan disbursal for only good borrowers.
+## Conclusion :
+After predicting the loan repayment status, changing the categorical values to 'Paid' and 'Not Paid' based on the > not.fully.paid
+column and also name of the column to loan repayment status in original dataset and concating the predicted loan repayment status similar to loan repayment status for better identifications and readability in the Final Predicted Data
