@@ -28,4 +28,11 @@ The following observations were made during the project period.
   *	delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years
   *	pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments)
   *	not.fully.paid: This is the output field. Please note that 1 means borrower is not going to pay the loan completely
-
+## Findings : 
+The following findings were made during the project period.
+1. Machine learning can be used to predict whether a loan applicant will repay their loan with a high degree of accuracy.
+2. The most important features for predicting loan repayment are the applicant's credit score, credit policy, interest rates, installments, annual income and debt-to-income ratio.
+3. The model can be used to help lenders make more informed decisions about whether to approve a loan application.
+## Insights : 
+The developed model can be used to improve the efficiency of loan lending by helping PeerLoanKart to make more informed decisions about whether to approve or deny loan applications. Here the model used is Extreme Gradient Boosting(XG Boost) model with the 94% degree of accuracy.
+`Business Benefits` - Increase in profits up to 20% as NPA will be reduced due to loan disbursal for only good borrowers
